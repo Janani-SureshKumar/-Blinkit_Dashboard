@@ -53,5 +53,5 @@ The report is based on two main tables:
 ---
 
 ## Contact  
-For any questions, feedback or collaboration, feel free to connect on [LinkedIn](https://linkedin.com/in/jananisuresh) or raise an issue in this repository.
+For any questions, feedback or collaboration, feel free to connect on [LinkedIn](https://linkedin.com/in/janani-sk) or raise an issue in this repository.
 
